@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0110-balanced-binary-tree) |
@@ -21,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -32,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
