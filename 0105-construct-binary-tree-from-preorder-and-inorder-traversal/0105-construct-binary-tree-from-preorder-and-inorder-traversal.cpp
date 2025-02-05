@@ -1,27 +1,30 @@
 class Solution {
 private:
-    int find(vector<int>& inorder, int start, int end, int elem){
-        for(int i = start; i <= end; ++i){
-            if(inorder[i] == elem) return i;
-        }
+    unordered_map<int, int> inorderMap;
+    TreeNode* build(vector<int>& preorder, vector<int>& inorder, int start, int end, int& idx) {
+        if (start > end) return nullptr;
 
-        return end-1;
-    }
+        int rootValue = preorder[idx++];
+        TreeNode* node = new TreeNode(rootValue);
 
-    TreeNode* Tree(vector<int>& preorder, vector<int>& inorder, int start, int end, int idx){
-        if(start > end) return nullptr;
+        int inIdx = inorderMap[rootValue]; 
 
-        TreeNode* node = new TreeNode(preorder[idx]);
-        int pre = find(inorder, start, end, preorder[idx]); // Found the index at inorder's vector
-        // On left of pre, we'll have left elements and on right vice versa
-
-        node->left = Tree(preorder, inorder, start, pre-1, idx+1); // idx+1 because NLR so after node that's wy just after idx we get left
-        node->right = Tree(preorder, inorder, pre+1, end, idx+(pre-start)+1);
+        node->left = build(preorder, inorder, start, inIdx - 1, idx);
+        // Here we didn't manually increased idx+1 as we are using idx by reference and so it first completes making left subtree complete then comes back to right call, until all that left subtreee is already formed.
+        
+        node->right = build(preorder, inorder, inIdx + 1, end, idx);
 
         return node;
     }
+
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return Tree(preorder, inorder, 0, inorder.size()-1, 0);
+        inorderMap.clear();
+        for (int i = 0; i < inorder.size(); ++i) {
+            inorderMap[inorder[i]] = i; // Precompute inorder indices
+        }
+
+        int idx = 0; // Preorder index
+        return build(preorder, inorder, 0, inorder.size() - 1, idx);
     }
 };
