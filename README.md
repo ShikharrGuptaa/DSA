@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShikharrGuptaa/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShikharrGuptaa/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShikharrGuptaa/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -68,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShikharrGuptaa/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
