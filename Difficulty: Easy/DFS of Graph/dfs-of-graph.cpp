@@ -6,29 +6,28 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
 private:
-    void help(vector<vector<int>>& adj, unordered_map<int, bool> &visited, vector<int> &ans, int node){
+    void dfs(int src, vector<vector<int>>& adj, unordered_map<int, bool> &vis, vector<int> &ans){
+        ans.push_back(src);
+        vis[src] = 1;
         
-        ans.push_back(node);
-        visited[node] = 1;
-        
-        for(auto i : adj[node]){
-            if(!visited[i]){
-                help(adj, visited, ans, i);
+        for(auto adjNode : adj[src]){
+            if(!vis[adjNode]){
+                dfs(adjNode, adj, vis, ans);
             }
         }
-        
     }
+    
   public:
     // Function to return a list containing the DFS traversal of the graph.
     vector<int> dfsOfGraph(vector<vector<int>>& adj) {
         // Code here
-        unordered_map<int, bool> visited;
+        unordered_map<int, bool> vis;
         vector<int> ans;
         
+        
         for(int i = 0; i < adj.size(); ++i){
-            if(!visited[i]){
-                help(adj, visited, ans, 0);
-                visited[i] = true;
+            if(!vis[i]){
+                dfs(i, adj, vis, ans);
             }
         }
         return ans;
