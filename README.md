@@ -169,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
