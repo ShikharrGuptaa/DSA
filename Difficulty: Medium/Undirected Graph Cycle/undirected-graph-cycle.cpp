@@ -5,46 +5,35 @@ using namespace std;
 
 // } Driver Code Ends
 
-
 class Solution {
-private: 
-    bool detect(int src, vector<vector<int>>& adj, unordered_map<int, bool> &visited) {
-        queue<pair<int, int>> q; // Node Parent
-        q.push({src, -1});
-        visited[src] = true; 
-
-        while (!q.empty()) {
-            int node = q.front().first;
-            int parent = q.front().second;
-            q.pop();
-
-            for (auto adjacentNode : adj[node]) {
-                if (!visited[adjacentNode]) {
-                    visited[adjacentNode] = true;
-                    q.push({adjacentNode, node});
-                }
-                else if (adjacentNode != parent) {
-                    return true; 
-                }
-            }
-        }
-        return false; 
-    }
-
-public:
-    bool isCycle(vector<vector<int>>& adj) {
-        unordered_map<int, bool> visited;
+private:
+    bool detect(int src, int parent, vector<vector<int>>& adj, unordered_map<int, bool> &vis){
+        vis[src] = true;
         
-        for (int idx = 0; idx < adj.size(); idx++) {
-            if (!visited[idx]) {
-                if (detect(idx, adj, visited)) return true;
+        for(auto adjNode : adj[src]){
+            if(!vis[adjNode]){
+                if(detect(adjNode, src, adj, vis)) return true;
+            }
+            else if(adjNode != parent) return true;
+        }
+        
+        return false;
+    }
+  public:
+    // Function to detect cycle in an undirected graph.
+    bool isCycle(vector<vector<int>>& adj) {
+        // Code here
+        unordered_map<int, bool> vis;
+        
+        for(int i = 0; i < adj.size(); ++i){
+            if(!vis[i]){
+                if(detect(i, -1, adj, vis)) return true;;
             }
         }
+        
         return false;
     }
 };
-
-
 
 
 //{ Driver Code Starts.
