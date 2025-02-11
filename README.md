@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShikharrGuptaa/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShikharrGuptaa/DSA/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShikharrGuptaa/DSA/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShikharrGuptaa/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShikharrGuptaa/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -185,9 +188,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShikharrGuptaa/DSA/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShikharrGuptaa/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
