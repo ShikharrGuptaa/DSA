@@ -80,6 +80,19 @@ Node* buildTree(string str) {
 
 
 // } Driver Code Ends
+/*Complete the function below
+
+struct Node {
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
 
 class Solution {
   public:
@@ -95,17 +108,18 @@ class Solution {
                 root = root->right;
             }
             else{
-                Node *prev = root->left;
+                Node* prev = root->left;
                 
-                // Go rightmost of this
-                while(prev->right && prev->right != root) prev = prev->right;
+                while(prev->right && prev->right != root){
+                    prev = prev->right;
+                }
                 
                 if(!prev->right){
                     prev->right = root;
                     root = root->left;
                 }
                 else{
-                    prev->right = nullptr;
+                    prev->right = NULL;
                     k--;
                     if(k == 0) return root->data;
                     root = root->right;
@@ -116,8 +130,6 @@ class Solution {
         return -1;
     }
 };
-
-
 
 //{ Driver Code Starts.
 int main() {
