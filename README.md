@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShikharrGuptaa/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShikharrGuptaa/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShikharrGuptaa/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShikharrGuptaa/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShikharrGuptaa/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
