@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ShikharrGuptaa/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ShikharrGuptaa/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShikharrGuptaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/ShikharrGuptaa/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShikharrGuptaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/ShikharrGuptaa/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShikharrGuptaa/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShikharrGuptaa/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ShikharrGuptaa/DSA/tree/master/0347-top-k-frequent-elements) |
