@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ShikharrGuptaa/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShikharrGuptaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/ShikharrGuptaa/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
