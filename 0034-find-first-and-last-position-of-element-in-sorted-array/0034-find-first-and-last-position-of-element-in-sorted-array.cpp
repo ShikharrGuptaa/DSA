@@ -6,6 +6,7 @@ public:
         int first_pos = -1;
         int last_pos = -1;
 
+        // Finding Last Occurence and if any found going to rightmost to it
         while(low <= high){
             int mid = low + (high - low) / 2;
             if(nums[mid] == target){
@@ -21,7 +22,7 @@ public:
         }
 
         // Found Last Occurence
-        // Meaning the first occurence will be on left of this
+        // Meaning the first occurence will be on left of this and keep going on left
         low = 0, high = last_pos;
 
         while(low <= high){
