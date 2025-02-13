@@ -26,16 +26,49 @@ public:
     // Function to detect cycle in a directed graph.
     bool isCyclic(int V, vector<vector<int>> adj) {
         // code here
-        vector<int> vis(V, 0);
-        vector<int> pathVis(V, 0);
-        
+        vector<int> inDeg(V, 0);
         for(int i = 0; i < V; ++i){
-            if(!vis[i]){
-                if(dfs(i, vis, pathVis, adj)) return true;
+            for(auto adjNode: adj[i]){
+                inDeg[adjNode]++;
             }
         }
         
-        return false;
+        queue<int> q;
+        
+        for(int i = 0; i < V; ++i){
+            if(inDeg[i] == 0) q.push(i);
+        }
+        
+        vector<int> topo;
+        
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
+            
+            for(auto adjNode: adj[node]){
+                inDeg[adjNode]--;
+                if(inDeg[adjNode] == 0) q.push(adjNode);
+            }
+        }
+        
+        return topo.size() == V ? false : true;
+        
+        
+        
+        
+        
+        // ---------------DFS SOLUTION--------------
+        // vector<int> vis(V, 0);
+        // vector<int> pathVis(V, 0);
+        
+        // for(int i = 0; i < V; ++i){
+        //     if(!vis[i]){
+        //         if(dfs(i, vis, pathVis, adj)) return true;
+        //     }
+        // }
+        
+        // return false;
     }
 };
 
