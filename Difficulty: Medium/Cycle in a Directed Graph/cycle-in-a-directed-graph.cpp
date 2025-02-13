@@ -4,22 +4,23 @@ using namespace std;
 
 
 // } Driver Code Ends
-
 class Solution {
 private:
     bool dfs(int src, vector<int> &vis, vector<int> &pathVis, vector<vector<int>> &adj){
-       vis[src] = 1;
-       pathVis[src] = 1;
-       
-       for(auto adjNode: adj[src]){
-           if(!vis[adjNode]){
-               if(dfs(adjNode, vis, pathVis, adj)) return true;
-           }
-           else if(pathVis[adjNode]) return true;
-       }
-       
-       pathVis[src] = 0;
-       return false;
+        // Marked it as Visited
+        vis[src] = 1;
+        // Marked the path Visited too
+        pathVis[src] = 1;
+        
+        for(auto adjNode : adj[src]){
+            if(!vis[adjNode]){
+                if(dfs(adjNode, vis, pathVis, adj)) return true;
+            }
+            else if(pathVis[adjNode]) return true;
+        }
+        pathVis[src] = 0;
+        return false;
+        
     }
 public:
     // Function to detect cycle in a directed graph.
@@ -37,8 +38,6 @@ public:
         return false;
     }
 };
-
-
 
 //{ Driver Code Starts.
 
