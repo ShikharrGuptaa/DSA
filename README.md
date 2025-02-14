@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ShikharrGuptaa/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ShikharrGuptaa/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/ShikharrGuptaa/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
