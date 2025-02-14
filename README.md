@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/ShikharrGuptaa/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
