@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShikharrGuptaa/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -201,10 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShikharrGuptaa/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShikharrGuptaa/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ShikharrGuptaa/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Union Find
 |  |
 | ------- |
@@ -252,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ShikharrGuptaa/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
