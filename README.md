@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ShikharrGuptaa/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShikharrGuptaa/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ShikharrGuptaa/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Counting
 |  |
 | ------- |
