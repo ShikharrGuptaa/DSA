@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
+| [1025-minimum-cost-for-tickets](https://github.com/ShikharrGuptaa/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
+| [1025-minimum-cost-for-tickets](https://github.com/ShikharrGuptaa/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
