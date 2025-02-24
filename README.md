@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/ShikharrGuptaa/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/ShikharrGuptaa/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/ShikharrGuptaa/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/ShikharrGuptaa/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShikharrGuptaa/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
