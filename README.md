@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/ShikharrGuptaa/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ShikharrGuptaa/DSA/tree/master/0115-distinct-subsequences) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ShikharrGuptaa/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShikharrGuptaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/ShikharrGuptaa/DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ShikharrGuptaa/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ShikharrGuptaa/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShikharrGuptaa/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ShikharrGuptaa/DSA/tree/master/0115-distinct-subsequences) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShikharrGuptaa/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/ShikharrGuptaa/DSA/tree/master/0135-candy) |
 ## Math
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ShikharrGuptaa/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/ShikharrGuptaa/DSA/tree/master/0044-wildcard-matching) |
 ## Topological Sort
 |  |
 | ------- |
