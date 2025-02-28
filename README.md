@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ShikharrGuptaa/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShikharrGuptaa/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0664-strange-printer](https://github.com/ShikharrGuptaa/DSA/tree/master/0664-strange-printer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShikharrGuptaa/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/ShikharrGuptaa/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ShikharrGuptaa/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0664-strange-printer](https://github.com/ShikharrGuptaa/DSA/tree/master/0664-strange-printer) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
