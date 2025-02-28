@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShikharrGuptaa/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShikharrGuptaa/DSA/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShikharrGuptaa/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShikharrGuptaa/DSA/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShikharrGuptaa/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShikharrGuptaa/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/ShikharrGuptaa/DSA/tree/master/1250-longest-common-subsequence) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShikharrGuptaa/DSA/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ShikharrGuptaa/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ShikharrGuptaa/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ShikharrGuptaa/DSA/tree/master/1036-rotting-oranges) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShikharrGuptaa/DSA/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Backtracking
 |  |
 | ------- |
