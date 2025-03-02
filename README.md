@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ShikharrGuptaa/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/ShikharrGuptaa/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShikharrGuptaa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ShikharrGuptaa/DSA/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShikharrGuptaa/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/ShikharrGuptaa/DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShikharrGuptaa/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ShikharrGuptaa/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShikharrGuptaa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShikharrGuptaa/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ShikharrGuptaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/ShikharrGuptaa/DSA/tree/master/0295-find-median-from-data-stream) |
 | [2551-apply-operations-to-an-array](https://github.com/ShikharrGuptaa/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShikharrGuptaa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
 | ------- |
